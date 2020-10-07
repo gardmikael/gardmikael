@@ -1,16 +1,27 @@
-### Hi there 👋
+## about gardmikael 👨🏼‍💻
 
-<!--
-**gardmikael/gardmikael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="left">
+	<a href="https://fjeldesign.no">
+		<img src="https://img.shields.io/badge/fd-fjeldesign-orange" alt="fjeldesign.no" />
+	</a>
+	<a href="https://www.linkedin.com/in/gardmikael">
+		<img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="LinkedIn">
+	</a>
+</div>
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+coder from 🇳🇴 <br />
+likes 🧗🏼‍♂️, 🥁, 🍺, ☕️, 🎥
+
+- Developer at [The National Archives of Norway](https://www.arkivverket.no/en)
+- "CEO" of [fjeldesign](https://fjeldesign.no "Fjeldesign's Homepage")
+
+### techs 'n tools 🔧
+![](https://img.shields.io/badge/OS-mac-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-vsCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-php-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-react-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-vue-informational?style=flat&logo=vuetify&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-laravel-informational?style=flat&logo=laravel&logoColor=white&color=2bbc8a)
