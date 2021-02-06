@@ -11,8 +11,19 @@
 
 <br />
 
-coder from 🇳🇴 <br />
-likes 🧗🏼‍♂️, 🥁, 🍺, ☕️, 🎥
+```
+{
+  nationality: 🇳🇴,
+  likes: 
+    [
+      🧗🏼‍♂️, 
+      🥁, 
+      🍺, 
+      ☕️, 
+      🎥
+    ]
+}
+```
 
 - Developer at [The National Archives of Norway](https://www.arkivverket.no/en)
 - "CEO" of [fjeldesign](https://fjeldesign.no "Fjeldesign's Homepage")
