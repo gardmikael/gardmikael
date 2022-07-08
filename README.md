@@ -26,7 +26,6 @@
 ```
 
 - Developer at [The National Archives of Norway](https://www.arkivverket.no/en)
-- "CEO" of [fjeldesign](https://fjeldesign.no "Fjeldesign's Homepage")
 
 ### techs 'n tools 🔧
 ![](https://img.shields.io/badge/OS-mac-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
